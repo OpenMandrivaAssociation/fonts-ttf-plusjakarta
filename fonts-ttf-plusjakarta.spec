@@ -1,7 +1,7 @@
 Summary:	Plus Jakarta Fonts (General purpose sans-serif)
 Name:		fonts-ttf-plusjakarta
 Version:	2.6
-Release:	1
+Release:	2
 License:	SIL Open Font License 1.1
 Group:		System/Fonts/True type
 Url:		http://www.droidfonts.com/
