@@ -4,7 +4,7 @@ Version:	2.6
 Release:	2
 License:	SIL Open Font License 1.1
 Group:		System/Fonts/True type
-Url:		http://www.droidfonts.com/
+Url:		https://www.droidfonts.com/
 Source0:	https://github.com/tokotype/PlusJakartaSans/releases/download/%{version}/PlusJakartaSans-%{version}.zip
 BuildArch:	noarch
 BuildRequires:	fontconfig
